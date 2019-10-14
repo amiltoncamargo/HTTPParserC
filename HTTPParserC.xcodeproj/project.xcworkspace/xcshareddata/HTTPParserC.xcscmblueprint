@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "eaba237f-b77b-46bd-8453-ff357e426f53++8202",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8202" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8202" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9BD3FACA-2BB1-4F32-A9F9-3E31012E4997",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "eaba237f-b77b-46bd-8453-ff357e426f53++8202" : "mrdc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HTTPParserC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "1_feature\/sprint12\/sdk\/ios\/HTTPParserC\/HTTPParserC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.64.12.58\/subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "eaba237f-b77b-46bd-8453-ff357e426f53++8202"
+    }
+  ]
+}
