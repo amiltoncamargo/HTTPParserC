@@ -217,7 +217,7 @@
 		825B343E1ECCE0EF00675CFF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1110;
 				TargetAttributes = {
 					825B34481ECCE15300675CFF = {
 						CreatedOnToolsVersion = 8.3.2;
@@ -238,11 +238,11 @@
 			};
 			buildConfigurationList = 825B34411ECCE0EF00675CFF /* Build configuration list for PBXProject "HTTPParserC" */;
 			compatibilityVersion = "Xcode 10.0";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 825B343D1ECCE0EF00675CFF;
 			productRefGroup = 825B344A1ECCE15300675CFF /* Products */;
@@ -347,6 +347,7 @@
 		825B34421ECCE0EF00675CFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
@@ -382,6 +383,7 @@
 		825B34431ECCE0EF00675CFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
